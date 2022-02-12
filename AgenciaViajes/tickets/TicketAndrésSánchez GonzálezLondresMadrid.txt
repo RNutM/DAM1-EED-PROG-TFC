@@ -1,0 +1,6 @@
+El cliente Andrés Sánchez González con teléfono 234666789, viaja acompañado por 2 personas:
+	Origen     :  Londres - Reino Unido   Destino    : Madrid - España
+	Medio de transporte escogido: Avión
+	Se hospedarán en el hotel Hotel NH Collection Madrid Colón - Calle Marqués de Zurgena, 4.
+	Su codigo de reserva es: 04342525X48
+	Disfrute del viaje

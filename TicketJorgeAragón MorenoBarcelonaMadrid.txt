@@ -1,0 +1,6 @@
+El cliente Jorge Aragón Moreno con teléfono 666885566, viaja acompañado por 4 personas:
+	Origen     :  Barcelona - España   Destino    : Madrid - España
+	Medio de transporte escogido: Tren
+	Se hospedarán en el hotel Hotel NH Collection Madrid Colón - Calle Marqués de Zurgena, 4.
+	Su codigo de reserva es: 04124125H11
+	Disfrute del viaje

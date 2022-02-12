@@ -1,0 +1,6 @@
+El cliente Juan Ramirez Gómez con teléfono 668547144, viaja acompañado por 3 personas:
+	Origen     :  Valencia - España   Destino    : Barcelona - España
+	Medio de transporte escogido: Avión
+	Se hospedarán en el hotel Hotel Condes de Barcelona - Passeig de Gràcia, 73.
+	Su codigo de reserva es: 04187548F27
+	Disfrute del viaje
