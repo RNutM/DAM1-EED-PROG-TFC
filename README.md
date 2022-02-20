@@ -1,5 +1,5 @@
 # DAM1-EED-PROG-TFC
-Trabajo fin de curso DAM1
+Entornos de desarrollo y Programación -> Trabajo fin de curso -> Aplicación de escritorio sobre una Agencia de viajes.
 
 * Abre los archivos PDF (DAM1-EED-PROG-TFC\AgenciaViajes\docs\\*.pdf) para ver la documentación sobre la aplicación.
 * El archivo sql para importar la base de datos se encuentra en la carpeta db.
