@@ -4,6 +4,7 @@ Entornos de desarrollo y Programación -> Trabajo fin de curso -> Aplicación de
 * Abre los archivos PDF (DAM1-EED-PROG-TFC\AgenciaViajes\docs\\*.pdf) para ver la documentación sobre la aplicación.
 * El archivo sql para importar la base de datos se encuentra en la carpeta db.
 * IDE Eclipse
+* Este TFC(Trabajo Fin de Grado) lo hice conjuntamente con mi compañero de grado Pablo Chico.
 
 * Proyectos 2018-2019
 *******************************************************************
