@@ -108,7 +108,7 @@ Insert into AGENCIA.CLIENTES (DNI,NOMBRE_CLI,APELLIDOS,TELEFONO) values ('087545
 REM INSERTING into AGENCIA.HOTELES
 SET DEFINE OFF;
 Insert into AGENCIA.HOTELES (COD_HOTEL,NOMBRE_HOTEL,DIRECCION,PRECIO_HOTEL,COD_CIUDAD) values ('1','Hotel NH Collection Madrid Colón','Calle Marqués de Zurgena, 4','154','1');
-Insert into AGENCIA.HOTELES (COD_HOTEL,NOMBRE_HOTEL,DIRECCION,PRECIO_HOTEL,COD_CIUDAD) values ('2','Novotel Madrid Center','Calle de O''''Donnell, 53','98','1');
+Insert into AGENCIA.HOTELES (COD_HOTEL,NOMBRE_HOTEL,DIRECCION,PRECIO_HOTEL,COD_CIUDAD) values ('2','Novotel Madrid Center','Calle de O''Donnell, 53','98','1');
 Insert into AGENCIA.HOTELES (COD_HOTEL,NOMBRE_HOTEL,DIRECCION,PRECIO_HOTEL,COD_CIUDAD) values ('3','Hotel Condes de Barcelona','Passeig de Gràcia, 73','101','2');
 Insert into AGENCIA.HOTELES (COD_HOTEL,NOMBRE_HOTEL,DIRECCION,PRECIO_HOTEL,COD_CIUDAD) values ('4','Hotel NH Barcelona Diagonal Center','Carrer d''Àlaba, 94-96','68','2');
 Insert into AGENCIA.HOTELES (COD_HOTEL,NOMBRE_HOTEL,DIRECCION,PRECIO_HOTEL,COD_CIUDAD) values ('5','Senator Parque Central Hotel','Plaça Manuel Sanchis Guarner, 1','67','3');
